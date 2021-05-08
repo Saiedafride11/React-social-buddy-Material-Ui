@@ -1,0 +1,11 @@
+.web-Banner{
+    background: linear-gradient(rgba(15, 94, 156, 0.5), rgba(0, 0, 0, 0.5)),url("https://i2.wp.com/news.library.virginia.edu/files/2020/04/IMG_0813.jpg?ssl=1");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    padding:50px;
+    text-align: center;
+    color: white;
+    object-fit:cover;
+}
